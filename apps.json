@@ -1,1 +1,86 @@
-{}
+[
+  {
+    "id": "apporder",
+    "categories": [
+      "customization"
+    ],
+    "userDocs": "",
+    "adminDocs": "",
+    "developerDocs": "",
+    "issueTracker": "https://github.com/juliushaertl/apporder/issues",
+    "website": "",
+    "created": "2016-10-01T09:16:47.111889Z",
+    "lastModified": "2020-05-22T06:05:39.565186Z",
+    "releases": [
+      {
+        "version": "0.3.3",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": "*",
+        "platformVersionSpec": ">=9.0.0 <12.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/juliushaertl/apporder/releases/download/0.3.3/apporder.tar.gz",
+        "created": "2016-10-12T19:14:10.802359Z",
+        "licenses": [
+          "agpl"
+        ],
+        "lastModified": "2016-10-12T19:50:16.104357Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": "*",
+        "rawPlatformVersionSpec": ">=9 <=11",
+        "signature": "nhlT9lhrmBxIsqh/e3RLm2NDw/U8ZvvoMyYQTLMM3H19DQmVcPYPYC9QWVTsowUzXblVaOXVGylbpKma9yOlOAqJtF3qyXecLl4+tA/Awb6BBhKPgHFdcLDAL5yy1K7/uei3SgEojMlJoI9vEK5I1C5YTh43yNH+//Im6MAuNYFUTlMXK426zdOe6ogpCI5GlYdXopqYANxcpT+WXWET6DDSM5Ev+MYwMcSAY4r8+tvARRU4ZAenRgjkBT6R5z6cD76emRax14tbV6vkjjwRcO+dQtM0tFPbd+5fsNInbauv50VzIMgjA6RnKTOI17gRsSdGlsV4vZn2aIxEPWauu6T/UohMvAE9HMn13vtbpPBSFwJAktj6yHASYGzupNQLprA0+OdyALoLZPpQAKNEXA42a4EVISBKu0EmduHJlUPeqhnIGkkGgVNWS8AWqzP2nFoPdXBgUWateiMcBTHxgEKDac5YmNc9lsXpzf1OxBaXHBhGYKuXPwIfyH3jTWb1OdwixJEuRe9dl63T9qOTRre8QWns/bMqKLibGfMtFhVB21ARJayBuX70eVvabG/2N7Y5t1zUlFygIKu51tvo3AVCRDdRrFWDvkAjxzIz5FIdALVZ+DReFYu/r4WF/w3V9rInFuEDSwb/OH4r8sQycs07tSlMyA74Y3FpjKTBxso=",
+        "translations": {},
+        "signatureDigest": "sha512"
+      },
+      {
+        "version": "0.3.2",
+        "phpExtensions": [],
+        "databases": [],
+        "shellCommands": [],
+        "phpVersionSpec": "*",
+        "platformVersionSpec": ">=9.0.0 <12.0.0",
+        "minIntSize": 32,
+        "download": "https://github.com/juliushaertl/apporder/releases/download/0.3.2/apporder.tar.gz",
+        "created": "2016-10-06T14:00:51.532409Z",
+        "licenses": [
+          "agpl"
+        ],
+        "lastModified": "2016-10-06T14:00:51.598455Z",
+        "isNightly": false,
+        "rawPhpVersionSpec": "*",
+        "rawPlatformVersionSpec": ">=9 <=11",
+        "signature": "gRVFOtj9414ZNSdRH/qNB2SwVZUQh+gaFnNLFjjXjJ1MdRMCISzvwb+QU1qYuK/y\nuL8K0pn1+fFQf8A3VsC2pb6yaLQ5U9C3Guf886Flf4qtYw1P8UWRA9yOJ+6Md+PH\n6pTEiDIdm4xbmM0KkBhsE5kL8dvLIq4EwwcAh2Qq8fjytzAk1YiP+KrTaYrVwskM\nDmm0lgP4NVnjRBTX9myW6tr6N3w0tq2jJ/+a/vEDJv+5ozKJx8N5gbJNdrtI4k7I\nyaQNWJ7cngtAHmUREeoBggV5uJayDceu83PPQR6N9/WVyNyZjw1Q8/Q6e/NyiXT2\no8mGv5tHl3DBOVuv8v7gBQgDh6ppp12M81aiCZymn2XIgjw50VQ+K15KHnLHuFFw\nwuHZVcoQ7b6oR4K4TURSfPFUeNgGS4R9v6gjg1RUcSm1Pnryc6pYnh10AUY8dk6q\n1CZ6Upt6SScP2ZEGWsFwVjjQhY/ZJmNfnhaGoFOZ5L9CnzyNCkGXFg0rL36i6djb\naqFy/z+Brnklng5ct6XWoP7uDt5BaHznQj1NHSfHn0GUQ0N968zWm9vQvy+dyXyC\nxR7vKeu2ppZ2ydoeQ9CVwfhOEsGs5OvrpapQdh9KbUHcX7b7ql01J7/P6dFuNuHe\n+7/y4ex3sEVg5YBmDtF8iZ6d7zsHd6peL1s1EsLnenQ=",
+        "translations": {},
+        "signatureDigest": "sha512"
+      }
+    ],
+    "screenshots": [
+      {
+        "url": "https://download.bitgrid.net/nextcloud/apporder/apporder.png",
+        "smallThumbnail": ""
+      }
+    ],
+    "translations": {
+      "en": {
+        "name": "AppOrder",
+        "summary": "Sort apps in the menu with drag and drop",
+        "description": "Enable sorting the app icons from the personal settings. The order will be saved for each\nuser individually. Administrators can define a custom default order.\n\n## Set a default order for all new users\n\nGo to the Admin settings > Additional settings and drag the icons under App order.\n\n## Use first app as default app\n\nYou can easily let Nextcloud redirect your user to the first app in their\npersonal order by changing the following parameter in your config/config.php:\n\n    'defaultapp' => 'apporder',\n\nUsers will now get redirected to the first app of the default order or to the\nfirst app of the user order."
+      }
+    },
+    "isFeatured": false,
+    "authors": [
+      {
+        "name": "Julius Härtl",
+        "mail": "jus@bitgrid.net",
+        "homepage": ""
+      }
+    ],
+    "ratingRecent": 0.5,
+    "ratingOverall": 0.980769230769231,
+    "ratingNumRecent": 0,
+    "ratingNumOverall": 26,
+    "certificate": "-----BEGIN CERTIFICATE-----\r\nMIIEAzCCAusCAhAEMA0GCSqGSIb3DQEBCwUAMHsxCzAJBgNVBAYTAkRFMRswGQYD\r\nVQQIDBJCYWRlbi1XdWVydHRlbWJlcmcxFzAVBgNVBAoMDk5leHRjbG91ZCBHbWJI\r\nMTYwNAYDVQQDDC1OZXh0Y2xvdWQgQ29kZSBTaWduaW5nIEludGVybWVkaWF0ZSBB\r\ndXRob3JpdHkwHhcNMTYwOTE0MTI1MjQ4WhcNMjYxMjIxMTI1MjQ4WjATMREwDwYD\r\nVQQDDAhhcHBvcmRlcjCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBAKVK\r\nKn5jivCu+eRfe5BECjDOzNaGHlpiegb49Hf4nh0W7DqcoLHip5c1O2BcEYdH6rkw\r\n20WclvjoQpgavG5aFXzXzur6eKTT5TpgY5oZTLoWjbx4e+fKdhyDPTpqNZzs1pxz\r\nsZLDL/ElpbSErE0s+QK/pzP11WNPylAkI9AKSyDMO3Mbllg8I8Bt+bT7LJKYOO/T\r\nLhv9m0anLZ4HrdfimhVIoMiu3RpyRigk8titXZA94+F8Fbf7ZQ9f14Y/v3+rfJFQ\r\nii9cDoox5uUrjplH2LrMr5BodfCfydLu4uVpPWYkdccgvcZ1sugjvNXyCQgdzQDK\r\npOpiwVkkiQFaQJYbGSDblFWPl/cLtA/P/qS7s8tWyTQuc1rYlEpCHG/fG8ZFkSVK\r\n9eCMGxK908VB4IU2DHZHOHi7JvtOz8X/Ak6pIIFdARoW3rfKlrz6DD4T9jEgYq0n\r\nRe7YwCKEIU3liZJ+qG6LCa+rMlp/7sCzAmqBhaaaJyX4nnZCa2Q2cNZpItEAdwVc\r\nqxLYL1FiNFMSeeYhzJJoq5iMC3vp2LScUJJNoXZj9zv+uqTNGHr+bimchR2rHUBo\r\nPzDLFJmat03KdWcMYxcK5mxJNGHpgyqM7gySlbppY/cgAospE8/ygU2FlFWIC9N0\r\neDaY+T8QA1msnzsfMhYuOI8CRYigan1agGOMDgGxAgMBAAEwDQYJKoZIhvcNAQEL\r\nBQADggEBAGsECd+meXHg1rr8Wb6qrkDz/uxkY1J+pa5WxnkVcB6QrF3+HDtLMvYm\r\nTTS02ffLLyATNTOALZFSy4fh4At4SrNzl8dUaapgqk1T8f+y1FhfpZrEBsarrq+2\r\nCSKtBro2jcnxzI3BvHdQcx4RAGo8sUzaqKBmsy+JmAqpCSk8f1zHR94x4Akp7n44\r\n8Ha7u1GcHMPzSeScRMGJX/x06B45cLVGHH5GF2Bu/8JaCSEAsgETCMkc/XFMYrRd\r\nTu+WGOL2Ee5U4k4XFdzeSLODWby08iU+Gx3bXTR6WIvXCYeIVsCPKK/luvfGkiSR\r\nCpW1GUIA1cyulT4uyHf9g6BMdYVOsFQ=\r\n-----END CERTIFICATE-----",
+    "discussion": "https://help.nextcloud.com/c/apps/apporder"
+  }
+]

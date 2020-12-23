@@ -1,1 +1,15 @@
-{}
+[
+  {
+    "id": "customization",
+    "translations": {
+      "en": {
+        "name": "Customization",
+        "description": "Themes, layout and UX change apps"
+      },
+      "ja": {
+        "name": "カスタマイズ",
+        "description": "自分で作成したアプリ"
+      }
+    }
+  }
+]
